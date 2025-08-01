@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "CaptchaGeneratorService.Controllers.CaptchaGeneratorController",
+    "Method": "GetAll",
+    "RelativePath": "api/CaptchaGenerator",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CaptchaGeneratorService.Controllers.CaptchaGeneratorController",
+    "Method": "Create",
+    "RelativePath": "api/CaptchaGenerator",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "generator",
+        "Type": "CaptchaGeneratorService.Model.CaptchaGenerator",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CaptchaGeneratorService.Controllers.CaptchaGeneratorController",
+    "Method": "Get",
+    "RelativePath": "api/CaptchaGenerator/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CaptchaGeneratorService.Controllers.CaptchaGeneratorController",
+    "Method": "Update",
+    "RelativePath": "api/CaptchaGenerator/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "generator",
+        "Type": "CaptchaGeneratorService.Model.CaptchaGenerator",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CaptchaGeneratorService.Controllers.CaptchaGeneratorController",
+    "Method": "Delete",
+    "RelativePath": "api/CaptchaGenerator/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

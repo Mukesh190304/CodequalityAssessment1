@@ -1,0 +1,1 @@
+zRdD:\ASP.NET\Assessment\CaptchaGeneratorService\CaptchaGeneratorService\CaptchaGeneratorService.csproj¢net8.0òCSharp12

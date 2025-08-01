@@ -1,0 +1,15 @@
+﻿D:\ASP.NET\Assessment\CaptchaGeneratorService\CaptchaGeneratorService\Controllers\CaptchaGeneratorController.cs
+D:\ASP.NET\Assessment\CaptchaGeneratorService\CaptchaGeneratorService\Data\AppDbContext.cs
+D:\ASP.NET\Assessment\CaptchaGeneratorService\CaptchaGeneratorService\Migrations\20250710051316_init.cs
+D:\ASP.NET\Assessment\CaptchaGeneratorService\CaptchaGeneratorService\Migrations\20250710051316_init.Designer.cs
+D:\ASP.NET\Assessment\CaptchaGeneratorService\CaptchaGeneratorService\Migrations\AppDbContextModelSnapshot.cs
+D:\ASP.NET\Assessment\CaptchaGeneratorService\CaptchaGeneratorService\Model\Generator.cs
+D:\ASP.NET\Assessment\CaptchaGeneratorService\CaptchaGeneratorService\Program.cs
+D:\ASP.NET\Assessment\CaptchaGeneratorService\CaptchaGeneratorService\obj\Debug\net8.0\CaptchaGeneratorService.GlobalUsings.g.cs
+D:\ASP.NET\Assessment\CaptchaGeneratorService\CaptchaGeneratorService\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+D:\ASP.NET\Assessment\CaptchaGeneratorService\CaptchaGeneratorService\obj\Debug\net8.0\CaptchaGeneratorService.AssemblyInfo.cs
+D:\ASP.NET\Assessment\CaptchaGeneratorService\CaptchaGeneratorService\obj\Debug\net8.0\CaptchaGeneratorService.MvcApplicationPartsAssemblyInfo.cs
+D:\ASP.NET\Assessment\CaptchaGeneratorService\CaptchaGeneratorService\appsettings.Development.json
+D:\ASP.NET\Assessment\CaptchaGeneratorService\CaptchaGeneratorService\appsettings.json
+D:\ASP.NET\Assessment\CaptchaGeneratorService\CaptchaGeneratorService\CaptchaGeneratorService.http
+D:\ASP.NET\Assessment\CaptchaGeneratorService\CaptchaGeneratorService\Properties\launchSettings.json
